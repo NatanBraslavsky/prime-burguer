@@ -12,9 +12,9 @@ Este projeto é uma landing page responsiva para uma hamburgueria fictícia, des
 
 # 📋 Funcionalidades
 
-✅ Layout responsivo para desktop e mobile
-✅ Seção de cardápio com hambúrgueres e preços
-✅ Seção de sobre nós/apresentação
+✅ Layout responsivo para desktop e mobile<br>
+✅ Seção de cardápio com hambúrgueres e preços<br>
+✅ Seção de sobre nós/apresentação<br>
 ✅ Seção de contato com endereço e redes sociais
 
 <br>
