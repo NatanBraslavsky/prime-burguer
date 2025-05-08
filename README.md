@@ -21,7 +21,7 @@ Este projeto é uma landing page responsiva para uma hamburgueria fictícia, des
 
 # 🛠️ Tecnologias utilizadas
 
-HTML5 → Estruturação do conteúdo
+HTML5 → Estruturação do conteúdo<br>
 CSS3 → Estilização e responsividade
 
 <br>
