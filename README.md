@@ -1,27 +1,27 @@
-🍔 Landing Page - Hamburgueria
+#🍔 Landing Page - Hamburgueria
 
 Este projeto é uma landing page responsiva para uma hamburgueria fictícia, desenvolvida utilizando HTML e CSS puros. O objetivo foi criar uma página visualmente atraente que apresenta os produtos, valores e informações de contato da hamburgueria.
 
 
-🔗 Demonstração
+#🔗 Demonstração
 
 👉 [[Clique aqui para ver a página online](https://natanbraslavsky.github.io/Html-Css/faculdade/trabalho_final/)]
 
 
-📋 Funcionalidades
+#📋 Funcionalidades
 
 ✅ Layout responsivo para desktop e mobile
 ✅ Seção de cardápio com hambúrgueres e preços
 ✅ Seção de sobre nós/apresentação
 ✅ Seção de contato com endereço e redes sociais
 
-🛠️ Tecnologias utilizadas
+#🛠️ Tecnologias utilizadas
 
 HTML5 → Estruturação do conteúdo
 CSS3 → Estilização e responsividade
 
 
-🚀 Como rodar o projeto
+#🚀 Como rodar o projeto
 
 1️⃣ Clone este repositório:
 git clone https://github.com/NatanBraslavsky/prime-burguer.git
