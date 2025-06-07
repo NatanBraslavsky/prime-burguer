@@ -9,7 +9,6 @@ Este projeto é uma landing page responsiva para uma hamburgueria fictícia, des
 👉 [[Clique aqui para ver a página online](https://natanbraslavsky.github.io/Html-Css/faculdade/trabalho_final/)]
 
 <br>
-
 # 📋 Funcionalidades
 
 ✅ Layout responsivo para desktop e mobile<br>
